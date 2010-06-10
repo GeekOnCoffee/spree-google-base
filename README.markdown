@@ -3,7 +3,7 @@ SUMMARY
 
 This extension allows you to use Google Base to list products for free that will appear in Google Product Search (http://www.froogle.com/).
 
-<a href="http://base.google.com/support/bin/answer.py?answer=25277&topic=2904">Learn more about Google Base</a>
+<a href="http://base.google.com/support/bin/answer.py?hl=en&answer=59260">Learn more about Google Base</a>
 
 INSTALLATION
 ------------
